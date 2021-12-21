@@ -1,2 +1,2 @@
 # Terraform_task
-Create exsample AWS resource
+Create example AWS resource
