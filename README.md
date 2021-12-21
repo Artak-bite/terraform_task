@@ -1,2 +1,2 @@
 # Terraform_task
-Create AWS VPC , subnet , secure groupe , instance then ssh
+Create AWS VPC, Subnet, SG, Instance then ssh in it
