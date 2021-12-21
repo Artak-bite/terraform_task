@@ -1,2 +1,2 @@
 # Terraform_task
-Create example AWS resource
+Create AWS VPC , subnet , secure groupe , instance then ssh
